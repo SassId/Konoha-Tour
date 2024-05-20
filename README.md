@@ -18,4 +18,4 @@ I wanted to add a personal touch by making a regular tour website into something
 
 ---
 
-_All pictures were borrowed and belong to their righful owners._
+_See you soon for some more projects_
