@@ -6,14 +6,14 @@ I wanted to add a personal touch by making a regular tour website into something
 
 ---------------------------
 
-[Click Here](https://sassid.github.io/E-Teamz-Shop/index.html) to check it out now ! 😁
+[Click Here](https://sassid.github.io/Konoha-Tour/) to check it out now ! 😁
 
 ---------------------------
-![index preview](./preview/index-preview.png)
+![home preview](./preview/index-preview.png)
 
-![products preview](./preview/products-preview.png)
+![contact preview](./preview/products-preview.png)
 
-![login preview](./preview/login-preview.png)
+![about preview](./preview/login-preview.png)
 
 
 ---------------------------
